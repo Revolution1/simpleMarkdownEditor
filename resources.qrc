@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>markdownSyntax.md</file>
+        <file>styles/byword-dark.css</file>
+        <file>styles/clearness.css</file>
+        <file>styles/clearness-dark.css</file>
+        <file>styles/github.css</file>
+        <file>styles/markdown.css</file>
+        <file>styles/solarized-dark.css</file>
+        <file>styles/solarized-light.css</file>
+    </qresource>
+</RCC>
